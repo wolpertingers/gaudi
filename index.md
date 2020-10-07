@@ -1,6 +1,6 @@
 # 🏡Corona-Hütte 😷
 Ein paar Regeln und Ratschläge zur diesjährigen, etwas unkonventionellen, Hütt'ngaudi.
-***
+
 - [1. Vorbereitung](#1-vorbereitung)
 - [2. Hüttenordnung](#2-hüttenordnung)
 - [3. Rudelbildung](#3-rudelbildung)
