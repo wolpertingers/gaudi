@@ -28,6 +28,6 @@ Zu Beginn der Corona-Pandemie hat der Konzern TSMC (stellt Microchips her, z.B. 
 
 Offensichtlich kriegen wir das nicht hin mit dem "kein Kontakt". Aber wir können folgendes machen: Auch wir bilden <span class="teamBlue">Team Blue</span> und <span class="teamRed">Team Red</span>. Die Einteilung wird mit der Anreise festgelegt: Wer in einem Auto sitzt, ist in einem Team. Dann, auf der Hütte, schlafen höchstens Mitglieder des selben Teams im selben Zimmer (man darf sich natürlich auf mehr als zwei Zimmer verteilen). Und falls es die lokalen Gesetze nicht zulassen, dass wir z.B. auf der Grüntenhütte alle zusammen an einem Tisch sitzen, dann teilen wir uns in die zwei Teams auf und nehmen zwei verschiedene Tische.
 
-Ich find die Idee nicht nur ganz gut, sondern auch ziemlich witzig! Wir könne die Teams nämlich auch hernehmen, um Flunkyball und solche Dinge zu spielen.
+Ich find die Idee nicht nur ganz gut, sondern auch ziemlich witzig! Wir können die Teams nämlich auch hernehmen, um Flunkyball und solche Dinge zu spielen.
 
 Die Einteilung erfolgt wie gesagt auf Basis der Fahrgemeinschaften. Ein aktuellen Überblick findet ihr [hier](pages/Rudels).
