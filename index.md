@@ -31,3 +31,6 @@ Offensichtlich kriegen wir das nicht hin mit dem "kein Kontakt". Aber wir könne
 Ich find die Idee nicht nur ganz gut, sondern auch ziemlich witzig! Wir können die Teams nämlich auch hernehmen, um Flunkyball und solche Dinge zu spielen.
 
 Die Einteilung erfolgt wie gesagt auf Basis der Fahrgemeinschaften. Ein aktuellen Überblick findet ihr [hier](pages/Rudels).
+
+## Abfahrt
+Planmäßige Abfahrt ist gegen 12 Uhr, damit wir Gina gegen halb 3, 3 in Immenstadt oder Sonthofen am Bahnhof einladen können.
