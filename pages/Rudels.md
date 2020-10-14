@@ -6,7 +6,8 @@ title: Rudels
 | <span class="teamBlue">Team Blue</span> | <span class="teamRed">Team Red</span> |
 | :-------------------------------------- | ------------------------------------: |
 | Ingo (Fahrer)                           |                    Rebecca (Fahrerin) |
-| Caro                                    |                                       |
-| Markus                                  |                                       |
+| Caro                                    |                                  Sara |
+| Markus                                  |                                 Roman |
+| Gina (Zustieg)                          |                                       |
 
 Alle Angaben wie immer ohne Gewehr.
