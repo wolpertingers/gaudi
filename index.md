@@ -20,8 +20,9 @@ Auf der Hütte selbst haben wir wenige Chancen irgendwelche Ansteckungen auszusc
 5. So viel Zeit wie möglich draußen verbringen
 6. Wenn drinnen, viel lüften
 7. Nur eine Person im Bad
-8. Wer vor Ort krank wird muss Maske tragen & Abstand halten
-9. Rudelbildung! (siehe nächster Abschnitt)
+8. Hände desinfizieren (ich kauf Desinfektionsmittel)
+9. Wer vor Ort krank wird muss Maske tragen & Abstand halten
+10. Rudelbildung! (siehe nächster Abschnitt)
 
 ## Rudelbildung
 Zu Beginn der Corona-Pandemie hat der Konzern TSMC (stellt Microchips her, z.B. Prozessoren für iPhones) seine gesamte Belegschaft in <span class="teamBlue">Team Blue</span> und <span class="teamRed">Team Red</span> eingeteilt. Mitglieder des einen Teams durften (oder dürfen) mit Mitgliedern des anderen Teams keine Kontakt haben. Die Idee dahinter ist, dass wenn eine Person positiv auf COVID-19 getestet würde, maximal das halbe Personal in Quarantäne müsste.
@@ -32,5 +33,7 @@ Ich find die Idee nicht nur ganz gut, sondern auch ziemlich witzig! Wir können 
 
 Die Einteilung erfolgt wie gesagt auf Basis der Fahrgemeinschaften. Ein aktuellen Überblick findet ihr [hier](pages/Rudels).
 
-## Abfahrt
-Planmäßige Abfahrt ist gegen 12 Uhr, damit wir Gina gegen halb 3, 3 in Immenstadt oder Sonthofen am Bahnhof einladen können.
+## Der Tag der Abfahrt
+An jenem Donnerstag, an dem unsere Odyssee begönne, gehen alle die Lust haben und nicht ausschlafen wollen noch schnell zusammen einkaufen. Vermutlich so gegen 10 Uhr.
+
+Planmäßige Abfahrt ist dann gegen 12 Uhr, damit wir Gina gegen halb 3, 3 in Immenstadt oder Sonthofen am Bahnhof einladen können.
