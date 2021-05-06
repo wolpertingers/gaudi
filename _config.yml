@@ -29,6 +29,7 @@ github_username: wolpertinger
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
 
 # sass settings
 sass:
