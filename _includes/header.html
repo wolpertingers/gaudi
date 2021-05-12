@@ -1,1 +1,62 @@
-<!DOCTYPE html>
+<header class="header">
+    <nav class="navbar is-spaced is-primary is-size-4" role="navigation" aria-label="main navigation">
+        <div class="container">
+            <div class="navbar-brand">
+                <a href="{{ site.baseurl }}/" class="navbar-item">
+                    <img src="{{ site.baseurl }}/assets/images/wolpi_with_circle.png" height="48px" width="48px">
+                </a>
+
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navigation_menu">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div class="navbar-menu" id="navigation_menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="{{ site.baseurl }}/">
+                        Home
+                    </a>
+
+                    <div class="navbar-item is-hoverable has-dropdown">
+                        <a href="{{ site.baseurl }}/events_list.html" class="navbar-link">
+                            Hütt'njahre
+                        </a>
+
+                        <div class="navbar-dropdown">
+                            {% assign year = 0 %}
+                            {% for post in site.posts reversed %}
+                                {% assign currentyear = post.date | date: "%Y" %}
+                                {% if currentyear != year %}
+                                {% unless forloop.first %}
+                                </div>
+                                {% endunless %}
+                                <div class="block">
+                                    <a href="{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
+                                {% assign year = currentyear %}
+                                {% else %}
+                                <a href="{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
+                                {% endif %}
+                            {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item">
+                        <button class="button modal-button" data-target="modal">Test</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="modal" id="modal">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+        <p>Hello World!</p>
+    </div>
+    <button class="modal-close is-large" aria-label="close"></button>
+</div>

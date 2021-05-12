@@ -1,2 +1,21 @@
 @charset "utf-8";
+
+// define colors
+$hunter_green: #768741;
+$fox_red: #C96520;
+$teal: #3D8B94;
+$green: #32A64F;
+$clay: #D1AE3D;
+
+// define bulma colors
+$primary: $hunter_green;
+$link: $teal;
+$info: $teal;
+$success: $green;
+$warning: $clay;
+$danger: $fox_red;
+
+// change navbar height
+$navbar-item-img-max-height: 3rem;
+
 @import "node_modules/bulma/bulma.sass";

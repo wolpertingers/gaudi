@@ -1,0 +1,38 @@
+---
+title: Hütt'ngaudis
+subtitle: Vergangenes und Bevorstehendes
+layout: default
+---
+
+<div class="columns is-centered">
+    <div class="column is-half">
+        {% assign previousyear = 0 %}
+        {% for post in site.posts reversed %}
+            {% assign year = post.date | date: "%Y" | plus: 0 %}
+            {% assign month = post.date | date: "%m" | plus: 0 %}
+            {% if month >= 3 and month < 6 %}
+                {% assign season = "spring" %}
+            {% elsif month >= 6 and month < 9 %}
+                {% assign season = "summer" %}
+            {% elsif month >= 9  and month < 12 %}
+                {% assign season = "fall" %}
+            {% else %}
+                {% assign season = "winter" %}
+            {% endif %}
+
+            {% if year != previousyear %}
+                {% unless forloop.first %}
+                </div>
+                {% endunless %}
+                <div class="columns">
+                {% assign previousyear = year %}
+            {% endif %}
+            <div class="column has-text-centered">
+                <a href="{{ post.url }}" class="box {{ season }}">
+                    <p class="title has-text-light">{{ year }} {{ season | upcase }}</p>
+                    <p class="subtitle has-text-light">{{ post.title }}</p>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</div>

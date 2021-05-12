@@ -1,0 +1,23 @@
+.spring {
+    background-image: url("../../assets/images/gruenten_spring.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.summer {
+    background-image: url("../../assets/images/gruenten_summer.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.fall {
+    background-image: url("../../assets/images/gruenten_fall.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.winter {
+    background-image: url("../../assets/images/gruenten_winter.jpg");
+    background-position: center;
+    background-size: cover;
+}
