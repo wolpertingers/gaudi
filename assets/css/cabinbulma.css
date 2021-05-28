@@ -297,7 +297,7 @@ pre {
 
 body {
   color: #4a4a4a;
-  font-size: 1em;
+  font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.5; }
 
@@ -7755,5 +7755,5 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
       padding: 18rem 1.5rem; } }
 
 .footer {
-  background-color: #fafafa;
+  background-color: #F7F8F1;
   padding: 3rem 1.5rem 6rem; }

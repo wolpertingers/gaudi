@@ -21,3 +21,12 @@
     background-position: center;
     background-size: cover;
 }
+
+figure.highlight {
+    text-align: left;
+}
+
+.special-primary-light {
+    background-color: #F7F8F1;
+    color: #768741;
+}

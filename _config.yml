@@ -28,9 +28,6 @@ github_username: wolpertinger
 permalink: /:year/:title:output_ext
 future: true
 
-# Markdown
-makrdown: kramdown
-
 # Build settings
 plugins:
   - jekyll-feed

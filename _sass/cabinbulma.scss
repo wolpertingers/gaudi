@@ -2,10 +2,14 @@
 
 // define colors
 $hunter_green: #768741;
+$hunter_green_light: #F7F8F1;
 $fox_red: #C96520;
 $teal: #3D8B94;
 $green: #32A64F;
 $clay: #D1AE3D;
+
+// define new sizes
+$body-font-size: 1.25rem;
 
 // define bulma colors
 $primary: $hunter_green;
@@ -14,6 +18,8 @@ $info: $teal;
 $success: $green;
 $warning: $clay;
 $danger: $fox_red;
+
+$footer-background-color: $hunter_green_light;
 
 // change navbar height
 $navbar-item-img-max-height: 3rem;
