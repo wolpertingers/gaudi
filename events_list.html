@@ -28,7 +28,7 @@ layout: default
                 {% assign previousyear = year %}
             {% endif %}
             <div class="column has-text-centered">
-                <a href="{{ post.url }}" class="box {{ season }}">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="box {{ season }}">
                     <p class="title has-text-light">{{ year }} {{ season | upcase }}</p>
                     <p class="subtitle has-text-light">{{ post.title }}</p>
                 </a>
