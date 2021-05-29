@@ -4,4 +4,4 @@ title: Hütt'ngaudi
 subtitle: Spaß, Spaß, Spaß
 ---
 
-Lorem ipsum...
+Hier könnte dein Gesicht stehen, wenns nicht so hässlich wäre 😊
