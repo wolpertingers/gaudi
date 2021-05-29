@@ -22,10 +22,8 @@ title: Hütt'ngaudi
 email: wolpertinger.bot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Webseite zur Organisation des alljährlichen Hüttenspaßes.
-# baseurl: "/gaudi" # the subpath of your site, e.g. /blog
-# url: "https://wolpertingers.github.io" # the base hostname & protocol for your site, e.g. http://example.co
-baseurl: ""
-url: ""
+baseurl: /gaudi # the subpath of your site, e.g. /blog
+url: https://wolpertingers.github.io # the base hostname & protocol for your site, e.g. http://example.co
 github_username: wolpertinger
 permalink: /:year/:title:output_ext
 future: true
