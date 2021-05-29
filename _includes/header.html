@@ -32,10 +32,10 @@
                                 {% unless forloop.first %}
                                 <hr class="navbar-divider">
                                 {% endunless %}
-                                <a href="{{ sire.baseurl }}{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
+                                <a href="{{ site.baseurl }}{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
                                 {% assign year = currentyear %}
                                 {% else %}
-                                <a href="{{ sire.baseurl }}{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
+                                <a href="{{ site.baseurl }}{{ post.url }}" class="navbar-item is-fullwidth">{{ currentyear}} - {{ post.title }}</a>
                                 {% endif %}
                             {% endfor %}
                         </div>
